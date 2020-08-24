@@ -1,0 +1,18 @@
+body.centered {
+    text-align: center;
+}
+
+header.shadowed{
+    padding: 50px;
+    margin: 50px;
+    border-radius: 10px;
+    box-shadow: 0 3px 20px 2px #888888;
+}
+
+#participantsList{
+    list-style-position: inside;
+}
+
+#participantsList li{
+    font-size: 20px;
+}
