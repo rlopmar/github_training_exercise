@@ -1,5 +1,5 @@
 // Insert a name in between quotes and separated by commas
-var names = ["Homer Simpson", "Albert Einstein", "Pedro Almodovar", "Cristiano Ronaldo"]
+var names = ["Homer Simpson", "Albert Einstein", "Pedro Almodovar", "Cristiano Ronaldo", "Rafa"]
 
 //Do not touch this code
 function insertNames(){
